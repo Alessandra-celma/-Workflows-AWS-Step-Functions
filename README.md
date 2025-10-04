@@ -39,11 +39,3 @@ Durante a prática, foram realizados os seguintes passos:
 ## 📊 Resumo
 O **Step Functions** permite criar aplicações distribuídas mais simples e confiáveis, coordenando serviços AWS em **fluxos de trabalho visuais**.  
 É uma poderosa ferramenta para aplicar **automação, mensageria e boas práticas de arquitetura em nuvem**.
-
----
-
-## 🖼️ Imagem do Desafio
-Coloque sua imagem (diagrama ou print do workflow) dentro da pasta `images/` e use o link abaixo:
-
-```markdown
-![Workflow AWS Step Functions](./images/workflow-step-functions.png)
